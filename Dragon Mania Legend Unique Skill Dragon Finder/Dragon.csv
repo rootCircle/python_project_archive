@@ -1,0 +1,14 @@
+Name,Fire,Wind,Earth,Water,Leaf,Metal,Lightning,Void,Light,Shadow
+Rust,0,0,1,1,0,1,0,0,0,0
+Orange,1,0,1,0,1,0,0,0,0,0
+Tribal,1,1,1,0,0,0,0,0,0,0
+Agent,0,0,1,0,0,1,0,1,0,0
+Cave,0,1,0,0,0,1,0,0,0,1
+Splotch,0,0,0,1,1,0,0,1,0,0
+Lynx,1,0,1,0,0,0,1,0,0,0
+Radiant,0,0,0,0,0,1,1,1,0,0
+Elemental,1,0,1,1,0,0,0,0,0,0
+Memorial,0,1,0,1,0,0,0,0,1,0
+Balloon,1,1,0,0,0,0,1,0,0,0
+Clownfish,0,1,1,1,0,0,0,0,0,0
+Geyser,1,0,0,1,0,0,1,0,0,0

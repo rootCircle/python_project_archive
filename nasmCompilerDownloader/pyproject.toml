@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "assemblyguide"
+version = "0.1.0"
+description = "Helps with installation and easy use of assembly language using Python"
+authors = ["Lab Rat <dev.frolics@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+beautifulsoup4 = "^4.12.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
